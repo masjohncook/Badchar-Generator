@@ -1,2 +1,2 @@
-# Python-Badchar
-Simple Pyhton app for printing badchar
+# Badchar Generator
+Simple app for printing badchar
